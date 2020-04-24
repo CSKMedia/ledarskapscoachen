@@ -6,9 +6,8 @@ public_folder: /images
 logo_url: https://confident-jackson-551d3b.netlify.app/images/logo.png
 collections:
   - name: "aktuellt" # Used in routes, e.g., /admin/collections/blog
-    label: "Aktuellt" # Used in the UI
+    label: "aktuellt" # Used in the UI
     folder: "content/aktuellt" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     editor:
       preview: false
