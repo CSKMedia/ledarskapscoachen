@@ -1,0 +1,33 @@
+{{ define "main"}}
+
+<!-- heading section start-->
+<section class="py-4 bg-color-main image-overlay nav-adjustment" id="tjanster">
+  <div class="container py-4">
+    <h2 class="text-center text-white title">Tjänster</h2>
+  </div>
+</section>
+<!-- heading section end-->
+
+<section class="bg-color-gray py-4" id="services">
+  <div class="container py-4 mb-4 text-center">
+    <div class="row pb-4">
+      {{ range .Site.Data.homepage.service.item }}
+      <div class="col-sm-6 col-lg-6 mb-4">
+        <a href="{{.Site.BaseURL}}/tjanster/{{ .url }}">
+          <div class="card h-100 p-4">
+            <div class="card-body p-4">
+              <i class="fa fa-3x {{ .icon }} pb-4"></i>
+              <h5 class="card-title">{{ .title }}</h5>
+              <p class="card-text"> {{ .content }} </p>
+            </div>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div><!-- ROW -->
+  </div>
+</section>
+
+{{- partial "contact_banner.html" . -}}
+
+{{ end }}

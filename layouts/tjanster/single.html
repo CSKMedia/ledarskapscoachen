@@ -1,0 +1,137 @@
+{{ define "main"}}
+
+  <!-- startpage start-->
+  <div class="py-4 subpage-screen image-overlay bg-pos_cc bg-color-main">
+    <div class="row align-items-center">
+      <div class="col py-4">
+        <h2 class="title text-white">{{ .Title }}</h2>
+      </div>
+    </div>
+  </div>
+<!-- Nav tabs -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-color-gray">
+  <div class="w-100">
+    <span class="navbar-brand d-sm-none">Snabbmeny</span>
+    <button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-target="#navbarTogglesub"
+      aria-controls="navbarTogglesub" aria-expanded="false" aria-label="Toggle navigation">
+      <!-- <span class="navbar-toggler-icon"></span> -->
+      <i class='fa fa-angle-down rotate'></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglesub">
+      <ul class="nav nav-services-subpage justify-content-center text-uppercase mx-auto ">
+        {{range (index $.Site.Menus .Params.submenu) }}
+        <li class="nav-item">
+          <a class="nav-link" href="#{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
+{{ if isset .Params "firsttext" }}
+<div class="container-fluid p-0 m-0 bg-color-main" id="{{.Params.firsthash}}">
+  <div class="row align-items-center m-0">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 p-0 align-self-center m-auto">
+      <div class="p-5">
+        <h4 class="title text-center text-color-blue">{{ .Title }}</h4>
+        <!-- <h4 class="title text-color-blue"> <i class="fa fa-1x fa-trophy"></i>ledarskapscoaching</h4> -->
+        <div class="content">
+          <p class="pr-4 text-white">{{ .Params.firstText | markdownify }} </p>
+        </div>
+        <div class="text-left">
+          <a href="{{ .Site.BaseURL }}/kontakt/" role="button" class="btn btn-lg btn-white my-2 mr-4">Ta kontakt</a>
+          <a href="{{ .Site.BaseURL }}/tjanster/" role="button" class="btn btn-lg btn-blue my-2 mr-4">Se fler tjänster</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 d-none d-sm-block
+    {{ if eq .Params.firstimgsmall "yes" }} cover-small {{else if (eq .Params.firstimgsmall "big" )}} h-1150 cover  {{ else }} cover {{ end }}
+    {{ if eq .Params.position "center" }} bg-pos_ct {{ end }}"
+      style="background-image: url('{{.Site.BaseURL }}/images/{{.Params.firstImg }}');">
+      <!-- <h1 class="text-center text-white py-10"></h1> -->
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ if isset .Params "secondtitle" }}
+<div class="container-fluid p-0 m-0 bg-color-gray" id="{{.Params.secondhash}}">
+  <div class="row align-items-center m-0">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 d-none d-sm-block
+    {{ if eq .Params.secondimgsmall "yes" }} cover-small {{else if (eq .Params.secondimgsmall "big" )}} h-1150 cover  {{ else }} cover {{ end }}"
+      style="background-image: url('{{.Site.BaseURL }}/images/{{.Params.secondImg}}');">
+      <h1 class="text-center text-white py-10"></h1>
+    </div>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 p-0 align-self-center m-auto">
+      <div class="p-5">
+        <h4 class="title text-center text-color-blue"> {{.Params.secondTitle}}</h4>
+        <p class="pr-4 text-white">
+          {{ .Params.secondText | markdownify}}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ if isset .Params "thirdtitle" }}
+  <div class="container-fluid p-0 m-0 bg-color-main" id="{{.Params.thirdhash}}">
+    <div class="row align-items-center m-0">
+      <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 p-0 align-self-center m-auto">
+        <div class="p-5">
+          <h4 class="title text-center text-color-blue">{{.Params.thirdTitle}}</h4>
+          <p class="pr-4 text-white">
+            {{ .Params.thirdText | markdownify }}
+          </p>
+        </div>
+      </div>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 d-none d-sm-block
+      {{ if eq .Params.thirdimgsmall "yes" }} cover-small {{else if (eq .Params.thirdimgsmall "big" )}} h-1150 cover {{ else }} cover {{ end }}
+      {{ if eq .Params.position "bottom" }} bg-pos_cb {{ end }}"
+        style="background-image: url('{{.Site.BaseURL }}/images/{{.Params.thirdImg}}');">
+        <!-- <h1 class="text-center text-white py-10"></h1> -->
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+
+{{ if isset .Params "fourthtitle" }}
+<div class="container-fluid p-0 m-0 bg-color-gray" id="{{.Params.fourthhash}}">
+  <div class="row align-items-center m-0">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 d-none d-sm-block
+    {{ if eq .Params.fourthimgsmall "yes" }} cover-small {{else if (eq .Params.fourthimgsmall "big" )}} h-1150 cover  {{ else }} cover {{ end }}"
+      style="background-image: url('{{.Site.BaseURL }}/images/{{.Params.fourthImg}}');">
+      <h1 class="text-center text-white py-10"></h1>
+    </div>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 p-0 align-self-center m-auto">
+      <div class="p-5">
+        <h4 class="title text-center text-color-blue"> {{.Params.fourthTitle}}</h4>
+        <p class="pr-4 text-white">
+          {{ .Params.fourthText | markdownify}}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+<!-- <div class="container-fluid py-4 bg-color-gray">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-9 py-4 custom-border-right">
+        <h4 class="title text-center text-color-blue">Gruppcoaching och konflikter</h4>
+        <p class="pr-4 text-white">
+          Gruppcoaching är ett användbart sätt för att få hela gruppen att gå vidare mot nya mål efter att ha löst en
+          tidigare konflikt och vill ha en ny riktning.
+          <br><br>
+          Om en grupp befinner sig i en konflikt så kan gruppcoaching också vara användbart genom att fokusera på
+          relationerna. Genom att skapa en grupp som kan kommunicera på ett bättre sätt kan gruppcoaching bidra till
+          ökad förståelse för varandra, acceptera och kunna se fördelar i olikheter för att gruppen som helhet ska
+          fungera bättre.
+        </p>
+      </div>
+    </div>
+  </div>
+</div> -->
+{{- partial "contact_banner.html" . -}}
+{{ end }}

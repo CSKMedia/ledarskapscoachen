@@ -1,0 +1,37 @@
+<!-- heading section start-->
+<section class="py-4 image-overlay bg-pos_cc bg-color-main">
+  <div class="container py-4">
+    <h2 class="text-center text-white title">Aktuellt</h2>
+  </div>
+</section>
+<!-- heading section end-->
+
+
+<!--news/blog start-->
+<section class="container-fluid bg-color-gray px-5">
+  <div class="container">
+    <div class="row">
+      {{ $news_pages := where .Site.RegularPages "Section" "==" "aktuellt"}}
+      {{ range first 4 $news_pages}}
+
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-2 my-4">
+        <div class="overflow-hidden">
+          <a href="{{ .RelPermalink }}">
+            <div class="bg-secondary">
+              <h3 class="text-center p-4 stretch-text-top">{{ .Date.Format "2006-01-02" }}</h3>
+            </div>
+            <div class="bg-image-sm" style="background-image: url('{{ .Site.BaseURL }}/images/{{ .Params.Image }}');">
+            </div>
+          </a>
+        </div>
+        <div class="overflow-hidden p-2 bg-color-main">
+          <h5 class="text-center"><a href="{{ .RelPermalink }}">{{ .Title | truncate 30}}</a></h5>
+          <!-- <p class="text-white">{{ .Summary | truncate 40 }}</p> -->
+        </div>
+      </div>
+
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- news/blog end-->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Ledarskapscoachen.nu</title>
+    <link>http://annah.cskmedia.se/tjanster/</link>
+    <description>Recent content in index on Ledarskapscoachen.nu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://annah.cskmedia.se/tjanster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chefshandledning</title>
+      <link>http://annah.cskmedia.se/tjanster/chefshandledning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://annah.cskmedia.se/tjanster/chefshandledning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chefsstöd</title>
+      <link>http://annah.cskmedia.se/tjanster/chefsstod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://annah.cskmedia.se/tjanster/chefsstod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Föreläsning och Workshop</title>
+      <link>http://annah.cskmedia.se/tjanster/forelasning-och-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://annah.cskmedia.se/tjanster/forelasning-och-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ledarskapscoaching</title>
+      <link>http://annah.cskmedia.se/tjanster/ledarskapscoaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://annah.cskmedia.se/tjanster/ledarskapscoaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

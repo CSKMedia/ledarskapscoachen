@@ -1,0 +1,47 @@
+# services
+service:
+  item:
+    - title: "ledarskapscoaching"
+      url: "ledarskapscoaching"
+      icon: "fa-trophy"
+      content: "Executive Coaching är ett kraftfullt verktyg som används vid utveckling av chefer och andra nyckelpersoner."
+
+    - title: "Chefshandledning"
+      url: "chefshandledning"
+      icon: "fa-comments-o"
+      content: "Handledning ger dig som chef avsatt tid för eftertanke och reflektion, hjälp att få perspektiv på dina egna
+                tankar och möjlighet att diskutera svåra frågor som hör till rollen som chef och ledare."
+
+    - title: "Chefsstöd"
+      url: "chefsstod"
+      icon: "fa-handshake-o"
+      content: "Chefsstödet är drivande genom hela processen och motiverar och handleder chefer att
+                stå kvar och agera konsekvent i utmanande situationer, vilket gynnar medarbetare, är utvecklande för
+                chefen och bra för organisationen."
+
+    - title: "Föreläsning och workshop"
+      url: "forelasning-och-workshop"
+      icon: "fa-pencil-square-o"
+      content: "Ledarskapscoaching riktar sig till chefer och ledare vars uppdrag är att nå uppsatta
+                mål.
+                Ledarskapscoachen erbjuder skräddarsydda lösningar oavsett chefsroll."
+
+# testimonial
+testimonial:
+  item:
+    - name: 'Moa ring'
+      image: "images/testimonial/moa.png"
+      company: "enhetschef Främja AB"
+      content: "Jag hade inte varit så trygg i min nuvarande position som enhetschef utan hennes varma, stöttande och även tuffa coaching och jag hade aldrig haft det breda perspektiv jag har nu utan Annah.
+Hon förändrar människors syn och tro på sig själva till något fantastiskt med sitt unika sätt. Annah viker sig aldrig och låter inte andra människor vika sig heller, hon hjälper de upp när de tror att de inte klarar tuffa situationer."
+
+    - name: "David Nordlund"
+      image: "images/testimonial/david.jpg"
+      company: "Firmatecknare och projektledare,  Blomquist STHLM"
+      content: "Vi anlitade Annah för att få stöd i att upprätta styrdokument, processer samt att hantera personalärenden. Annah hjälpte oss att kartlägga företaget, få struktur i vårt arbetssätt och en medvetenhet i hur vi fördelar våra resurser. En av de mest positiva effekterna efter att ha arbetat tillsammans med Annah och etablerat våra nya arbetssätt var att vi upptäckte att vår kundnöjdhet ökade, som är en av de viktigaste faktorerna för att lyckas i byggbranschen."
+
+    - name: "Tiffany Karlsson"
+      image: "images/testimonial/tiffany.jpg"
+      company: "ägare, Affluere"
+      content: "Jag upplevde ett genuint intresse och stort engagemang för mig och mitt företag från Annah. Hon utmanade mig att ändra mitt mindset och fick mig att känna mig trygg i min roll genom att lyssna och omvandla mina värderingar, tankar och känslor till konkreta handlingar som tar mig och mitt företag framåt"
+

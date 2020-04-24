@@ -1,0 +1,108 @@
+# baseURL = "http://localhost:1313"
+baseURL = "http://annah.cskmedia.se"
+languageCode = "en-us"
+title = "Ledarskapscoachen.nu"
+summaryLength = "20"
+
+# fix raw-html not being omitted
+[markup.goldmark.renderer]
+unsafe= true
+
+
+[params]
+  description = "Er ledarskapsutveckling börjar här!"
+  images = ["logo2.png"]
+  title = "Ledarskapscoachen.nu"
+
+  [params.contact]
+  phone = "076-02 666 03"
+  email = "info@ledarskapscoachen.nu"
+  address = "Sormenvägen 29, Vallentuna"
+
+  #social media links
+  [params.social]
+  facebook = "http://facebook.com/ledarskapscoachen/"
+  instagram = "http://instagram.com/ledarcoachen/"
+  linkedin = "https://www.linkedin.com/in/annah-thunberg-537a1291/"
+
+# navigation
+[menu]
+
+  [[menu.main]]
+    name = "Tjänster"
+    url = "tjanster"
+    weight = 1
+
+  [[menu.main]]
+    name = "Om ledarskapscoachen"
+    url = "om-ledarskapscoachen"
+    weight = 2
+
+  [[menu.main]]
+    name = "Aktuellt"
+    url = "aktuellt"
+    weight = 3
+
+  [[menu.main]]
+    name = "Kontakt"
+    url = "kontakt"
+    weight = 4
+
+  [[menu.ledarskapscoaching]]
+    name = "Ledarskapscoaching"
+    url = "ledarskapscoaching"
+    weight = 1
+
+  [[menu.ledarskapscoaching]]
+    name = "Coaching för chefer"
+    url = "coachingforchefer"
+    weight = 2
+
+  [[menu.ledarskapscoaching]]
+    name = "Gruppcoaching"
+    url = "gruppcoaching"
+    weight = 3
+
+  [[menu.ledarskapscoaching]]
+    name = "Gruppcoaching och konflikter"
+    url = "gruppcoaching-och-konflikter"
+    weight = 4
+
+  # chefshandledning
+  [[menu.chefshandledning]]
+    name = "Chefshandledning"
+    url = "chefshandledning"
+    weight = 1
+
+  [[menu.chefshandledning]]
+    name = "För chefer"
+    url = "for-chefer"
+    weight = 2
+
+  [[menu.chefshandledning]]
+    name = "För ledningsgrupper"
+    url = "ledningsgrupper"
+    weight = 3
+
+  [[menu.chefshandledning]]
+    name = "Chef över chefer"
+    url = "chef-over-chefer"
+    weight = 4
+
+  # chefsstöd
+  [[menu.chefsstod]]
+    name = "Chefsstöd"
+    url = "chefsstod"
+    weight = 1
+
+  # chefsstöd
+  [[menu.workshop]]
+    name = "Föreläsning och workshop"
+    url = "forelasning-och-workshop"
+    weight = 1
+
+
+
+
+
+

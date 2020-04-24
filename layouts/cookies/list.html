@@ -1,0 +1,48 @@
+{{ define "main"}}
+
+<!-- startpage start-->
+<!-- heading section start-->
+<section class="py-4 subpage-screen image-overlay bg-pos_cc bg-color-main">
+  <div class="container py-4">
+    <h2 class="text-center text-white title">{{ .Title }}</h2>
+  </div>
+</section>
+<!-- heading section end-->
+
+<div class="container-fluid p-0 m-0 bg-color-main">
+  <div class="row align-items-center justify-content-center">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 align-self-center m-auto">
+      <div class="row justify-content-center">
+        <div class="col-12 my-4">
+          <h4 class="title text-center text-color-blue">{{.Title }}</h4>
+          <!-- <h4 class="title text-color-blue"> <i class="fa fa-1x fa-trophy"></i>ledarskapscoaching</h4> -->
+          <p class="text-white">{{ .Content | markdownify }}</p>
+
+          <h5 class="text-white">Cookies på sidan</h5>
+          <table class="table table-striped text-white">
+            <thead>
+              <tr>
+                <th scope="col">Namn</th>
+                <th scope="col">Värde</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>_ga</td>
+                <td>GA1.2.981347096.1585129321</td>
+              </tr>
+              <tr>
+                <td>_gid</td>
+                <td>GA1.2.333820105.1586948120</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{- partial "contact_banner.html" . -}}
+
+{{ end }}

@@ -1,0 +1,31 @@
+{{ define "main"}}
+
+<!-- heading section start-->
+<section class="subpage-screen image-overlay bg-pos_cc bg-color-main">
+  <div class="container py-4">
+    <h2 class="text-center text-white title">{{ .Title }}</h2>
+  </div>
+</section>
+
+<div class="container-fluid p-0 m-0 bg-color-main">
+  <div class="row align-items-center m-0">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 p-0 align-self-center m-auto">
+      <div class="p-5">
+        <h4 class="title text-center text-color-blue">{{.Title }}</h4>
+        <p><small class="text-muted"> publicerat: <i>{{ .Date.Format "2006-01-02" }}</i></small></p>
+        <!-- <h4 class="title text-color-blue"> <i class="fa fa-1x fa-trophy"></i>ledarskapscoaching</h4> -->
+        <div class="content">{{ .Content | markdownify }} </div>
+      </div>
+    </div>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 cover">
+    <img src="{{.Site.BaseURL }}/images/{{ .Params.Image }}" class="img-fluid">
+      <!-- style="background-image: url('{{.Site.BaseURL }}/images/{{ .Params.Image }}');"> -->
+      <!-- <h1 class="text-center text-white py-10"></h1> -->
+    </div>
+  </div>
+</div>
+
+
+{{- partial "news.html" . -}}
+
+{{ end }}

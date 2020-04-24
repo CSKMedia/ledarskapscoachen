@@ -1,0 +1,38 @@
+<header>
+  <section id="navigation">
+    <!-- navigation start -->
+  <nav class="navbar fixed-top navbar-expand-xl navbar-dark bg-color-main" {{if not .IsHome }} style="background-color: rgb(51,51,51);" {{ end }}>
+    <div class="container-xl">
+    <!-- <a class="navbar-brand title" href="#">Ledarskapscoachen</a> -->
+        <a class="navbar-brand brand text-center" href="{{.Site.BaseURL }}"><img src="{{.Site.BaseURL }}/images/logo3.png" class="logo">
+          <br>
+        <span class="">Ledarskapscoachen</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+          aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarToggler">
+          <ul class="navbar-nav ml-auto mt-2 mt-lg-0 text-uppercase">
+            {{ range .Site.Menus.main}}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--navigation end-->
+    <!-- cookie-bar start-->
+    <div class="cookie-bar d-none">
+      <span class="cookie-message">Den här sidan använder sig utav cookies
+        <a href="{{.Site.BaseURL }}/cookies" class="px-2">Läs mer</a>
+        <button type="button" class="btn btn-lg btn-light my-4">
+          Jag Godkänner
+        </button>
+      </span>
+    </div>
+    <!-- cookie-bar end-->
+  </section>
+</header>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Ledarskapscoachen.nu</title>
+    <link>http://annah.cskmedia.se/posts/</link>
+    <description>Recent content in Example on Ledarskapscoachen.nu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2020 15:02:06 +0100</lastBuildDate>
+    
+	<atom:link href="http://annah.cskmedia.se/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boka höstens coachning och handledning för grupp eller individ!</title>
+      <link>http://annah.cskmedia.se/posts/boka-hostens-coachning/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://annah.cskmedia.se/posts/boka-hostens-coachning/</guid>
+      <description>Sveriges näringsliv befinner sig i en kris. En kris som ingen av oss har upplevt tidigare. Chefer och medarbetare känner oro, stress och ångest för den rådande arbetssituationen och för framtiden.</description>
+    </item>
+    
+    <item>
+      <title>Att träna chefer</title>
+      <link>http://annah.cskmedia.se/posts/att-tr%C3%A4na-chefer/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://annah.cskmedia.se/posts/att-tr%C3%A4na-chefer/</guid>
+      <description>Det finns många metoder och verktyg att använda i ledarskapsträning. Ett av de jag använder är &amp;ldquo;Ledarskapshjulet&amp;rdquo; som är ett enkelt och tydligt hjälpmedel för att definiera viktiga egenskaper och relationer i sin roll som chef och ledare.</description>
+    </item>
+    
+  </channel>
+</rss>
