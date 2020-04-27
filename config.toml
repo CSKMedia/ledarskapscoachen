@@ -96,9 +96,9 @@ unsafe= true
     weight = 1
 
   # chefsstöd
-  [[menu.workshop]]
-    name = "Föreläsning och workshop"
-    url = "forelasning-och-workshop"
+  [[menu.mur]]
+    name = "MUR Mentorprogram"
+    url = "mur-mentorprogram"
     weight = 1
 
 

@@ -19,12 +19,10 @@ service:
                 stå kvar och agera konsekvent i utmanande situationer, vilket gynnar medarbetare, är utvecklande för
                 chefen och bra för organisationen."
 
-    - title: "Föreläsning och workshop"
-      url: "forelasning-och-workshop"
-      icon: "fa-pencil-square-o"
-      content: "Ledarskapscoaching riktar sig till chefer och ledare vars uppdrag är att nå uppsatta
-                mål.
-                Ledarskapscoachen erbjuder skräddarsydda lösningar oavsett chefsroll."
+    - title: "MUR Mentorprogram"
+      url: "mur-mentorprogram"
+      icon: "fa-slideshare"
+      content: "MUR mentorprogram riktar sig till ledare och högpresterande personer med stort driv och höga ambitioner som vill uppnå sin fulla potential"
 
 # testimonial
 testimonial:
