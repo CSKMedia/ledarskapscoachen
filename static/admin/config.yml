@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/images
 public_folder: /
-logo_url: https://confident-jackson-551d3b.netlify.app/images/logo.png
+logo_url: https://www.ledarskapscoachen.nu/images/logo.svg
 collections:
   - name: "aktuellt" # Used in routes, e.g., /admin/collections/blog
     label: "aktuellt" # Used in the UI
