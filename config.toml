@@ -1,5 +1,5 @@
 # baseURL = "http://localhost:1313"
-baseURL = "https://ledarskapscoachen.nu"
+baseURL = "https://www.ledarskapscoachen.nu"
 languageCode = "en-us"
 title = "Ledarskapscoachen.nu"
 summaryLength = "20"
