@@ -1,8 +1,9 @@
 # baseURL = "http://localhost:1313"
 baseURL = "https://ledarskapscoachen.nu"
 languageCode = "en-us"
-title = "Ledarskapscoachen.nu"
+title = "Ledarskapscoach i Stockholm"
 summaryLength = "20"
+jumboDescription = "Er ledarskapsutveckling börjar här!"
 
 # fix raw-html not being omitted
 [markup.goldmark.renderer]
@@ -10,9 +11,10 @@ unsafe= true
 
 
 [params]
-  description = "Er ledarskapsutveckling börjar här!"
   images = ["logo2.png"]
-  title = "Ledarskapscoachen.nu"
+  title = "Ledarskapscoach i Stockholm"
+  description = "Bli en bättre chef! Ledarskapscoachen.nu utbildar och utvecklar chefer, ledare, högresterande personer och andra nyckelpersoner i företaget i att kommunicera, hantera konflikter och att bli tryggare i att fatta beslut."
+  ogimage = "images/logo2.png"
 
   [params.contact]
   phone = "076-02 666 03"

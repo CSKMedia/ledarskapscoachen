@@ -5,7 +5,7 @@ description: Det finns många metoder och verktyg att använda i
   ledarskapsträning. Ett av de jag använder är "Ledarskapshjulet" som är ett
   enkelt och tydligt hjälpmedel för att definiera viktiga egenskaper och
   relationer i sin roll som chef och ledare.
-image: /ledarskapshjulet.png
+image: images/ledarskapshjulet.png
 ---
 Det finns många metoder och verktyg att använda i ledarskapsträning.
 

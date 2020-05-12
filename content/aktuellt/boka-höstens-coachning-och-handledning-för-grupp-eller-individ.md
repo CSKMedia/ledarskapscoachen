@@ -4,7 +4,7 @@ date: 2020-04-07T14:52:25.685Z
 description: Sveriges näringsliv befinner sig i en kris. En kris som ingen av
   oss har upplevt tidigare. Chefer och medarbetare känner oro, stress och ångest
   för den rådande arbetssituationen och för framtiden.
-image: /boka.jpg
+image: images/boka.jpg
 ---
 Sveriges näringsliv befinner sig i en kris. En kris som ingen av oss har upplevt tidigare.
 Chefer och medarbetare känner oro, stress och ångest för den rådande arbetssituationen och för framtiden.
