@@ -5,7 +5,7 @@ description: "Som ledarskapscoach och chefshandledare träffar jag många chefer
   och ledare som beskriver just otydlighet kring förväntningar som en av de
   största utmaningarna i ledarskapet. Här får du tre tips på hur du kan bli en
   tydligare ledare. "
-image: /interview-2071228_1920.jpg
+image: /chefsstod.jpg
 ---
 ### **3 saker som du som ledare kan göra för att förtydliga dina förväntningar**
 
