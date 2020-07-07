@@ -5,7 +5,7 @@ description: Som ledarskapscoach träffar jag många chefer och ledare som
   beskriver just otydlighet kring förväntningar som en av de största
   utmaningarna i ledarskapet.  Här får du tre tips på hur du kan bli en
   tydligare ledare. Tydlighet skapar trygghet.
-image: /team-2894828_1920.jpg
+image: /people-4498458_1280.png
 ---
 ### **3 saker som du som ledare kan göra för att förtydliga dina förväntningar**
 
