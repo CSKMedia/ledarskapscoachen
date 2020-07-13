@@ -17,7 +17,7 @@ service:
       icon: "fa-handshake-o"
       content: "Även om det ingår i chefens roll att ha svåra samtal med sina medarbetare kan det uppstå situationer med behov av extern hjälp. Det är inte alltid så lätt att hantera svåra samtal där det kan finnas mycket känslor inblandat, det är helt orimliga förväntningar eller i väldigt pressade situationer."
 
-    - title: "Processutveckling  inom vård- och omsorg"
+    - title: "Processutveckling inom vård- och omsorg"
       url: "processutveckling-inom-vard-och-omsorg"
       icon: "fa-slideshare"
       content: "En effektiv process skall skapa värde för verksamhetens patienter, brukare, klienter och kunder, vilket är grunden för en framgångsrik verksamhet."
