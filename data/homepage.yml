@@ -12,18 +12,20 @@ service:
       content: "Handledning ger dig som chef avsatt tid för eftertanke och reflektion, hjälp att få perspektiv på dina egna
                 tankar och möjlighet att diskutera svåra frågor som hör till rollen som chef och ledare."
 
-    - title: "Chefsstöd"
-      url: "chefsstod"
+    - title: "Handledning för medarbetare "
+      url: "handledning-for-medarbetare"
       icon: "fa-handshake-o"
-      content: "Chefsstödet är drivande genom hela processen och motiverar och handleder chefer att
-                stå kvar och agera konsekvent i utmanande situationer, vilket gynnar medarbetare, är utvecklande för
-                chefen och bra för organisationen."
+      content: "Även om det ingår i chefens roll att ha svåra samtal med sina medarbetare kan det uppstå situationer med behov av extern hjälp. Det är inte alltid så lätt att hantera svåra samtal där det kan finnas mycket känslor inblandat, det är helt orimliga förväntningar eller i väldigt pressade situationer."
 
-    - title: "MUR Mentorprogram"
-      url: "mur-mentorprogram"
+    - title: "Processutveckling  inom vård- och omsorg"
+      url: "processutveckling-inom-vard-och-omsorg"
       icon: "fa-slideshare"
-      content: "MUR mentorprogram riktar sig till ledare och högpresterande personer med stort driv och höga ambitioner som vill uppnå sin fulla potential"
+      content: "En effektiv process skall skapa värde för verksamhetens patienter, brukare, klienter och kunder, vilket är grunden för en framgångsrik verksamhet."
 
+    - title: "Kartläggning av ledarskap"
+      url: "kartlaggning-av-ledarskap"
+      icon: "fa-map"
+      content: " En strukturerad feedbackkartläggning som ger dig som ledare en nulägesbild av hur dina medarbetare uppfattar ditt ledarskap samt ett individuellt designat träningsprogram för att stärka dina utvecklingsområden i kombination med coaching."
 # testimonial
 testimonial:
   item:

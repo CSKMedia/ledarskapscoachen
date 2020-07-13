@@ -92,15 +92,15 @@ unsafe= true
     weight = 4
 
   # chefsstöd
-  [[menu.chefsstod]]
-    name = "Chefsstöd"
-    url = "chefsstod"
+  [[menu.medarbetare]]
+    name = "Handledning för medarbetare "
+    url = "handledning-for-medarbetare"
     weight = 1
 
   # chefsstöd
-  [[menu.mur]]
-    name = "MUR Mentorprogram"
-    url = "mur-mentorprogram"
+  [[menu.konsultation]]
+    name = "Konsultation"
+    url = "konsultation"
     weight = 1
 
 
