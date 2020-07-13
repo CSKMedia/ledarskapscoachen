@@ -98,9 +98,9 @@ unsafe= true
     weight = 1
 
   # chefsstöd
-  [[menu.konsultation]]
-    name = "Konsultation"
-    url = "konsultation"
+  [[menu.processutveckling]]
+    name = "Processutveckling inom vård- och omsorg"
+    url = "processutveckling-inom-vard-och-omsorg"
     weight = 1
 
 
