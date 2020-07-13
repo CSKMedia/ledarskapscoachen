@@ -98,8 +98,8 @@ unsafe= true
     weight = 1
 
   # chefsstöd
-  [[menu.processutveckling-inom-vard-och-omsorg]]
-    name = "Processutveckling inom vård- och omsorg"
+  [[menu.processutveckling]]
+    name = "processutveckling"
     url = "processutveckling-inom-vard-och-omsorg"
     weight = 1
 
