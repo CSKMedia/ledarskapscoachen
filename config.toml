@@ -103,6 +103,11 @@ unsafe= true
     url = "processutveckling-inom-vard-och-omsorg"
     weight = 1
 
+  [[menu.kartlaggning]]
+    name = "Kartläggning av ledarskap"
+    url = "kartlaggning-av-ledarskap"
+    weight = 1
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-subMenu: "Kartläggning av ledarskap"
+subMenu: "kartlaggning"
 title: "Kartläggning av ledarskap"
 firstHash: "Kartlaggning-av-ledarskap"
 firstText: "
