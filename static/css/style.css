@@ -20,6 +20,10 @@ p, table {
   padding-left: 15px !important;
 }
 
+.cinzel {
+  font-family: 'Cinzel', serif !important;
+}
+
 a {
   color: #67d7ed;
   text-decoration:none;

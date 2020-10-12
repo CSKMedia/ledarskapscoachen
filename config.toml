@@ -13,12 +13,12 @@ unsafe= true
 [params]
   images = ["logo2.png"]
   title = "Ledarskapscoach i Stockholm"
-  description = "Bli en bättre chef! Ledarskapscoachen.nu utbildar och utvecklar chefer, ledare, högresterande personer och andra nyckelpersoner i företaget i att kommunicera, hantera konflikter och att bli tryggare i att fatta beslut."
+  description = "Bli en bättre chef! Ledarskapscoachen.nu utbildar och utvecklar chefer, ledare, högpresterande personer och andra nyckelpersoner i företaget i att kommunicera, hantera konflikter och att bli tryggare i att fatta beslut."
   ogimage = "images/logo2.png"
 
   [params.contact]
   phone = "076-02 666 03"
-  email = "info@ledarskapscoachen.nu"
+  email = "annah@ledarskapscoachen.nu"
   address = "Sormenvägen 29, Vallentuna"
 
   #social media links
@@ -61,47 +61,17 @@ unsafe= true
     weight = 2
 
   [[menu.ledarskapscoaching]]
-    name = "Gruppcoaching"
-    url = "gruppcoaching"
-    weight = 3
+  name = "Gruppcoaching"
+  url = "gruppcoaching"
+  weight = 3
 
   [[menu.ledarskapscoaching]]
-    name = "Gruppcoaching och konflikter"
-    url = "gruppcoaching-och-konflikter"
-    weight = 4
+  name = "Vem använder en ledarskapcoach"
+  url = "vemanvanderenledarskapcoach"
+  weight = 4
 
-  # chefshandledning
-  [[menu.chefshandledning]]
-    name = "Chefshandledning"
-    url = "chefshandledning"
-    weight = 1
-
-  [[menu.chefshandledning]]
-    name = "För chefer"
-    url = "for-chefer"
-    weight = 2
-
-  [[menu.chefshandledning]]
-    name = "För ledningsgrupper"
-    url = "ledningsgrupper"
-    weight = 3
-
-  [[menu.chefshandledning]]
-    name = "Chef över chefer"
-    url = "chef-over-chefer"
-    weight = 4
 
   # chefsstöd
-  [[menu.medarbetare]]
-    name = "Handledning för medarbetare "
-    url = "handledning-for-medarbetare"
-    weight = 1
-
-  # chefsstöd
-  [[menu.processutveckling]]
-    name = "processutveckling"
-    url = "processutveckling-inom-vard-och-omsorg"
-    weight = 1
 
   [[menu.kartlaggning]]
     name = "Kartläggning av ledarskap"

@@ -4,23 +4,9 @@ service:
     - title: "ledarskapscoaching"
       url: "ledarskapscoaching"
       icon: "fa-trophy"
-      content: "Executive Coaching är ett kraftfullt verktyg som används vid utveckling av chefer och andra nyckelpersoner."
-
-    - title: "Chefshandledning"
-      url: "chefshandledning"
-      icon: "fa-comments-o"
-      content: "Handledning ger dig som chef avsatt tid för eftertanke och reflektion, hjälp att få perspektiv på dina egna
-                tankar och möjlighet att diskutera svåra frågor som hör till rollen som chef och ledare."
-
-    - title: "Handledning för medarbetare "
-      url: "handledning-for-medarbetare"
-      icon: "fa-handshake-o"
-      content: "Även om det ingår i chefens roll att ha svåra samtal med sina medarbetare kan det uppstå situationer med behov av extern hjälp. Det är inte alltid så lätt att hantera svåra samtal där det kan finnas mycket känslor inblandat, det är helt orimliga förväntningar eller i väldigt pressade situationer."
-
-    - title: "processutveckling"
-      url: "processutveckling-inom-vard-och-omsorg"
-      icon: "fa-slideshare"
-      content: "En effektiv process skall skapa värde för verksamhetens patienter, brukare, klienter och kunder, vilket är grunden för en framgångsrik verksamhet."
+      content: "Coaching är en av de mest kraftfulla metoder för hållbar ledarskapsutveckling.
+      Hur blir man coachad som chef? Vad innebär gruppcoaching?
+      "
 
     - title: "Kartläggning av ledarskap"
       url: "kartlaggning-av-ledarskap"
