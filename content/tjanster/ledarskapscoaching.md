@@ -61,16 +61,16 @@ Coachingen är alltid <b>resultatorienterad</b> med ett väl definerat mål.
 <p class='text-white text-center'>
     <ul class='custom-ul text-white'>
       <li class='py-2'><i class='fa fa-minus  pr-2'></i>Få ut mer av ditt ledarskap</li>
-      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Vli tydlig, trygg och fpå kontroll över ditt ledarskap</li>
+      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Bli tydlig, trygg och få kontroll över ditt ledarskap</li>
       <li class='py-2'><i class='fa fa-minus  pr-2'></i>Göra rätt prioriteringar</li>
       <li class='py-2'><i class='fa fa-minus  pr-2'></i>Stärka din självkänsla och självförtroende</li>
       <li class='py-2'><i class='fa fa-minus  pr-2'></i>Hantera stress</li>
-      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Kommunisera på rätt nivå</li>
+      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Kommunicera på rätt nivå</li>
       <li class='py-2'><i class='fa fa-minus  pr-2'></i>Använda hela din potential</li>
       <li class='py-2'><i class='fa fa-minus  pr-2'></i>Ändra oönskade beteenden (ex kontroll och prestationsångest)</li>
-      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Ta kommandot över dina rädsloar</li>
+      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Ta kommandot över dina rädslor</li>
       <li class='py-2'><i class='fa fa-minus  pr-2'></i>Bli bättre på strategisk planering</li>
-      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Få insokter om styrkor och drivkrafter </li>
+      <li class='py-2'><i class='fa fa-minus  pr-2'></i>Få insikter om styrkor och drivkrafter </li>
   </ul>
 </p>
 "

@@ -8,7 +8,7 @@ quote: "Ledarskap är att bygga tillit"
   <tbody>
     <tr>
       <th scope="row">Epost</th>
-      <td><a href="{{ .Site.Params.contact.epost }}">annah@ledarskapscoachen.nu</a></td>
+      <td><a href="mailto:annah@ledarskapscoachen.nu">annah@ledarskapscoachen.nu</a></td>
     </tr>
     <tr>
       <th scope="row">Telefon</th>
