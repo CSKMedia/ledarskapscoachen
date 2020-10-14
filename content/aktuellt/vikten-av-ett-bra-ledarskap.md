@@ -12,9 +12,7 @@ Framgången i ett företag är att lyckas med ledarskapet.
 
 Ledarskapsutbildning är bara en del i utvecklingsinsatsen för chefer.
 
-Googleresultatet är tyvärr bara en effekt av att vi som arbetar med ledarskap lägger alldeles för lite tid på att göra en bra behovsinventering och planering av ledarutvecklande insatser som leder till framgång.
-
-
+Googleresultatet är tyvärr en effekt av att vi som arbetar med ledarskap lägger alldeles för lite tid på att göra en bra behovsinventering och planering av ledarutvecklande insatser som leder till framgång.
 
 Googlar du på ledarskapscoaching får du 38 200 träffar. Inte ens i närheten av ovanstående sökord alltså.
 
@@ -33,8 +31,6 @@ Några ytterligare resultat av ledarskapscoaching upprättat genom forskning är
 * Intresset och färdigheterna för samarbete ökar
 * Ökad laganda
 
-
-
 Ledarskapscoachens uppgift är att hålla en tydlig resultatorientering, se ledaren ur ett systemperspektiv och ta hänsyn till företagskulturen.
 
 Coachingprocessen inleds med att bestämma vilka mål du vill uppnå för att sedan gå vidare mot vilka aktiviteter och resurser som krävs för att nå dit.
@@ -46,7 +42,5 @@ Ledarskapscoaching handlar om att nå resultat och att se individen bakom titeln
 Coaching som utvecklingsinsats kan användas som program under flera år, vid enstaka tillfällen, löpande eller för grupper och går lika bra att göra digitalt som fysiskt.
 
 Oavsett omfattning och orsak till att du anlitar en ledarskapscoach så får du en tydlig bild av vad som behöver göras för att upp nå dina mål. Du får också konkreta verktyg och uppföljning av dina aktiviteter för att underlätta uthålligheten i förändringsarbetet.
-
-
 
 **Använder du en ledarskapscoach som en del av din kompetensutveckling?**
