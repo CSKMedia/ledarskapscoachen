@@ -22,13 +22,9 @@ Här krävs det att chefen har nog med kunskap och information för att kunna fa
 
 Det fungerar säkert också bra på kort sikt i en organisation där man behöver styra upp och där medarbetarna har låg motivation. Där den auktoritära ledaren styr upp och följer upp agendan så att man ror målet i land.
 
-
-
 **Hur påverkar ett giftigt och auktoritärt ledarskap, långsiktigt?**
 
 Teamet blir lågpresterande. Den auktoritära ledaren hanterar allt själv och vågar inte släppa in någon. Hen bestämmer alla arbetsmetoder och processer själv. Medarbetarna anförtros sällan med beslutsfattande eller får sällan någon uppgift med ett eget ansvar, vilket leder till att medarbetarna inte känner delaktighet och tappar därför också glädjen, motivationen och engagemanget. Håller dessutom den auktoritära chefen inne på organisationens “WHY”, det vill säga anledningen till varför man arbetar där samt inte delar med sig av företagets gemensamma mål, då blir det en skrämd och trött organisation.
-
-
 
 **Vad gör vi om vi hamnar i en sådan organisation?**
 
@@ -66,11 +62,9 @@ Att ge feedforward handlar om att ge förslag på hur man vill ha det i framtide
 
 
 
-Om din ansträngning trots allt inte ger någon effekt så ska du välja din fysiska och mentala hälsa. Säg upp dig och sök nytt jobb.
+Den giftiga chefen kan förändras. 
 
-Det finns helt fantastiska arbetsgivare.
-
-Det vet vi eftersom vi möter dem dagligen.
+Det vet jag eftersom jag möter dem regelbundet.
 
 
 
