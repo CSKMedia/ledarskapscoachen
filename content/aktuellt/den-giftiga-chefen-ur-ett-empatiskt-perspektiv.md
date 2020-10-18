@@ -16,7 +16,7 @@ image: /suit-673697_1920.jpg
 
 Här har vi en chef som gärna vill ha kontroll i allt som händer, som inte litar på sina anställda utan lever under devisen, “bäst karl/kvinna reder sig själv”. Beslut görs på kunskap och idéer från denna chef, som givetvis inte delar med andra. Den giftiga chefen vill ha full kontroll över gruppen och släpper sällan in någon i dennes revir.
 
-Men är det så negativ med denna typ av ledarskap? Frågar du oss, så skulle vi säga att denna typ av ledarskap fungerar för en kortsiktig lösning eller i en typ av krissituation.
+Men är det så negativ med denna typ av ledarskap? Frågar du mig, så skulle jag säga att denna typ av ledarskap fungerar för en kortsiktig lösning eller i en typ av krissituation.
 
 Här krävs det att chefen har nog med kunskap och information för att kunna fatta snabba beslut, vilket således krävs i sådana situationer.
 
@@ -65,8 +65,6 @@ Att ge feedforward handlar om att ge förslag på hur man vill ha det i framtide
 Den giftiga chefen kan förändras. 
 
 Det vet jag eftersom jag möter dem regelbundet.
-
-
 
 Med omtanke,
 
