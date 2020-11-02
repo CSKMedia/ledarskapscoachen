@@ -8,4 +8,4 @@ Nu kan ni boka kostnadsfri digital konsultation för chefer och ledare ännu smi
 
 Du bokar på:
 
-[www.ledarskapscoachen.bokamera.se](www.ledarskapscoachen.bokamera.se)
+[www.ledarskapscoachen.bokamera.se](https://ledarskapscoachen.bokamera.se/)
