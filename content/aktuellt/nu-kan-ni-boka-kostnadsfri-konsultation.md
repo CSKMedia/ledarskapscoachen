@@ -6,6 +6,6 @@ image: /book-1750740_1920.jpg
 ---
 Nu kan ni boka kostnadsfri digital konsultation för chefer och ledare ännu smidigare.
 
-Du bokar på:
+Klicka på länken nedan för att komma till bokningen.
 
-[ledarskapscoachen.bokamera.se](https://ledarskapscoachen.bokamera.se/)
+[Boka tid för konsultation](https://ledarskapscoachen.bokamera.se/)
