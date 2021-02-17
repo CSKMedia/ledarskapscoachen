@@ -1,5 +1,5 @@
 ---
-title: Vad som krävs för ett framgångsrikt coachingförhållande
+title: Vad som krävs för ett framgångsrikt coachingrelation
 date: 2021-02-17T09:08:38.913Z
 description: För ledare och organisationer som vill utöka sitt ledarskap
   antingen personligen eller professionellt kan ledarskapscoaching vara mycket
